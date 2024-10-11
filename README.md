@@ -1,3 +1,5 @@
+**FitZone**
+
 As a team, we developed Fitzone, a responsive gym website using HTML, pure CSS, and TailwindCSS. This project provides essential information about our gym and encourages users to become part of our fitness community. The website includes four key sections:
 
 📖 About Us: Introduces the gym, outlining our mission, values, and the community we aim to build.
